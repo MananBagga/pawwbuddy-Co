@@ -1,0 +1,21 @@
+{
+  "name": "pawwbuddyandco",
+  "version": "1.0.0",
+  "description": "pet care space",
+  "keywords": [
+    "react",
+    "javascript",
+    "mern",
+    "petcare",
+    "pet",
+    "cat",
+    "dog"
+  ],
+  "license": "ISC",
+  "author": "Manan Bagga",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
